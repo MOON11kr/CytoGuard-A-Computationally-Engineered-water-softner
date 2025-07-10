@@ -1,0 +1,10 @@
+Ingredient,Type,Cost_Rs_per_kg,BulkPrice_USD_per_ton,pH,pKa_values,Chelation_Strength,Toxic,Availability,SkinSafe,EcoFriendly,EcoScore,SupplierCountry,SourceLink,SofteningScore,SafetyScore,Cost_performance,BlendCompatibility
+Citric Acid,Chelator,80,1000,2.2,"[3.13, 4.76, 6.39]",4,N,Very High,Y,Y,9,Global,https://pubchem.ncbi.nlm.nih.gov/compound/Citric-acid,80,63.5,1.0,
+Magnesium Sulfate,Ion Source,60,430,7.0,,1,N,Very High,Y,Y,8,India,https://mkp.gem.gov.in,20,82.5,0.3333333333333333,
+EDTA,Chelator,400,2500,4.3,"[0, 1.5, 2, 6, 10.3]",5,Y,Medium,N,N,2,Global,https://pubchem.ncbi.nlm.nih.gov/compound/EDTA,100,24.0,0.25,
+Sodium Carbonate,Base,30,200,11.6,[10.3],1,N,Very High,Y,Y,7,India,https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-carbonate,20,59.5,0.6666666666666666,
+Sodium Bicarbonate,Buffer/Base,25,180,8.3,[6.3],1,N,Very High,Y,Y,8,Global,https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-bicarbonate,20,76.0,0.8,
+Sodium Hexametaphosphate,Chelator,100,900,7.0,,3,N,High,Y,Y,7,Global,https://en.wikipedia.org/wiki/Sodium_hexametaphosphate,60,82.5,0.6,
+Phytic Acid,Chelator,150,1200,1.9,"[1.9, 2.5, 3.0, 5.5, 6.6, 7.4]",4,N,Medium,Y,Y,8,Global,https://pubchem.ncbi.nlm.nih.gov/compound/Phytic-acid,80,62.0,0.5333333333333333,
+Tartaric Acid,Chelator,120,950,3.0,"[2.98, 4.34]",3,N,Medium,Y,Y,7,India,https://pubchem.ncbi.nlm.nih.gov/compound/Tartaric-acid,60,67.5,0.5,
+Gluconic Acid,Chelator,140,1050,3.5,[3.6],3,N,Medium,Y,Y,7,Global,https://pubchem.ncbi.nlm.nih.gov/compound/Gluconic-acid,60,70.0,0.42857142857142855,

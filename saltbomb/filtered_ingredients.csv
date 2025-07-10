@@ -1,0 +1,2 @@
+Ingredient,Type,Cost_Rs_per_kg,BulkPrice_USD_per_ton,pH,pKa_values,Chelation_Strength,Toxic,Availability,SkinSafe,EcoFriendly,EcoScore,SupplierCountry,SourceLink,SofteningScore,SafetyScore,Cost_performance,BlendCompatibility
+Sodium Hexametaphosphate,Chelator,100,900,7.0,,3,N,High,Y,Y,7,Global,https://en.wikipedia.org/wiki/Sodium_hexametaphosphate,60,82.5,0.6,

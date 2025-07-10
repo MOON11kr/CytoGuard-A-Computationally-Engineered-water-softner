@@ -1,0 +1,121 @@
+TotalCost,Avg_pH,Total_SofteningScore,Avg_SafetyScore,Avg_EcoScore,Toxicity_Flag,FormulationScore,ComboName,Contains_Citric_and_MgSO4,Exists_in_Literature
+205,5.83,160,74.0,8.0,N,46.0,Citric Acid + Sodium Bicarbonate + Sodium Hexametaphosphate,N,N
+210,6.93,160,68.5,7.67,N,43.32,Citric Acid + Sodium Carbonate + Sodium Hexametaphosphate,N,N
+105,5.25,100,69.75,8.5,N,40.77,Citric Acid + Sodium Bicarbonate,N,N
+240,5.4,160,76.17,8.0,N,39.65,Citric Acid + Magnesium Sulfate + Sodium Hexametaphosphate,Y,N
+260,5.23,180,61.67,8.0,N,39.3,Citric Acid + Sodium Carbonate + Phytic Acid,N,N
+165,5.83,120,74.0,8.33,N,38.03,Citric Acid + Magnesium Sulfate + Sodium Bicarbonate,Y,N
+230,5.6,160,63.5,7.67,N,37.82,Citric Acid + Sodium Carbonate + Tartaric Acid,N,N
+110,6.9,100,61.5,8.0,N,37.25,Citric Acid + Sodium Carbonate,N,N
+170,6.93,120,68.5,8.0,N,35.35,Citric Acid + Magnesium Sulfate + Sodium Carbonate,Y,N
+250,5.77,160,64.33,7.67,N,34.07,Citric Acid + Sodium Carbonate + Gluconic Acid,N,N
+275,5.73,160,73.5,7.67,N,31.82,Sodium Bicarbonate + Sodium Hexametaphosphate + Phytic Acid,N,N
+245,6.1,140,75.33,7.33,N,30.33,Sodium Bicarbonate + Sodium Hexametaphosphate + Tartaric Acid,N,N
+280,6.83,160,68.0,7.33,N,29.13,Sodium Carbonate + Sodium Hexametaphosphate + Phytic Acid,N,N
+220,5.0,120,75.0,7.0,N,27.2,Sodium Hexametaphosphate + Tartaric Acid,N,N
+265,6.27,140,76.17,7.33,N,26.58,Sodium Bicarbonate + Sodium Hexametaphosphate + Gluconic Acid,N,N
+175,5.1,100,69.0,8.0,N,26.5,Sodium Bicarbonate + Phytic Acid,N,N
+160,7.0,80,82.5,7.5,N,25.5,Magnesium Sulfate + Sodium Hexametaphosphate,N,N
+310,5.3,160,75.67,7.67,N,25.47,Magnesium Sulfate + Sodium Hexametaphosphate + Phytic Acid,N,N
+145,5.65,80,71.75,7.5,N,25.27,Sodium Bicarbonate + Tartaric Acid,N,N
+280,5.67,140,77.5,7.33,N,23.98,Magnesium Sulfate + Sodium Hexametaphosphate + Tartaric Acid,N,N
+235,5.73,120,73.5,8.0,N,23.85,Magnesium Sulfate + Sodium Bicarbonate + Phytic Acid,N,N
+300,5.5,160,63.0,7.33,N,23.63,Sodium Carbonate + Phytic Acid + Tartaric Acid,N,N
+330,3.7,220,69.33,8.0,N,23.6,Citric Acid + Sodium Hexametaphosphate + Phytic Acid,N,N
+240,5.25,120,76.25,7.0,N,23.57,Sodium Hexametaphosphate + Gluconic Acid,N,N
+180,6.75,100,60.75,7.5,N,22.97,Sodium Carbonate + Phytic Acid,N,N
+180,4.6,140,73.0,8.0,N,22.7,Citric Acid + Sodium Hexametaphosphate,N,N
+205,6.1,100,75.33,7.67,N,22.37,Magnesium Sulfate + Sodium Bicarbonate + Tartaric Acid,N,N
+300,4.07,200,71.17,7.67,N,22.12,Citric Acid + Sodium Hexametaphosphate + Tartaric Acid,N,N
+255,4.13,180,67.17,8.33,N,21.98,Citric Acid + Sodium Bicarbonate + Phytic Acid,N,N
+135,7.37,120,66.33,8.0,N,21.7,Citric Acid + Sodium Carbonate + Sodium Bicarbonate,N,N
+165,5.9,80,73.0,7.5,N,21.65,Sodium Bicarbonate + Gluconic Acid,N,N
+240,6.83,120,68.0,7.67,N,21.17,Magnesium Sulfate + Sodium Carbonate + Phytic Acid,N,N
+225,4.5,160,69.0,8.0,N,20.5,Citric Acid + Sodium Bicarbonate + Tartaric Acid,N,N
+300,5.83,140,78.33,7.33,N,20.23,Magnesium Sulfate + Sodium Hexametaphosphate + Gluconic Acid,N,N
+320,5.67,160,63.83,7.33,N,19.88,Sodium Carbonate + Phytic Acid + Gluconic Acid,N,N
+180,5.0,80,75.0,7.5,N,19.25,Magnesium Sulfate + Tartaric Acid,N,N
+225,6.27,100,76.17,7.67,N,18.62,Magnesium Sulfate + Sodium Bicarbonate + Gluconic Acid,N,N
+290,6.03,140,65.67,7.0,N,18.4,Sodium Carbonate + Tartaric Acid + Gluconic Acid,N,N
+320,4.23,200,72.0,7.67,N,18.37,Citric Acid + Sodium Hexametaphosphate + Gluconic Acid,N,N
+350,2.37,220,64.33,8.0,N,18.1,Citric Acid + Phytic Acid + Tartaric Acid,N,N
+230,2.05,160,62.75,8.5,N,17.68,Citric Acid + Phytic Acid,N,N
+245,4.67,160,69.83,8.0,N,16.75,Citric Acid + Sodium Bicarbonate + Gluconic Acid,N,N
+200,2.6,140,65.5,8.0,N,16.45,Citric Acid + Tartaric Acid,N,N
+290,3.7,180,69.33,8.33,N,15.63,Citric Acid + Magnesium Sulfate + Phytic Acid,Y,N
+200,5.25,80,76.25,7.5,N,15.62,Magnesium Sulfate + Gluconic Acid,N,N
+140,4.6,100,73.0,8.5,N,14.75,Citric Acid + Magnesium Sulfate,Y,N
+370,2.53,220,65.17,8.0,N,14.35,Citric Acid + Phytic Acid + Gluconic Acid,N,N
+260,4.07,160,71.17,8.0,N,14.15,Citric Acid + Magnesium Sulfate + Tartaric Acid,Y,N
+340,2.9,200,67.0,7.67,N,12.87,Citric Acid + Tartaric Acid + Gluconic Acid,N,N
+220,2.85,140,66.75,8.0,N,12.83,Citric Acid + Gluconic Acid,N,N
+155,8.97,100,72.67,7.33,N,11.53,Sodium Carbonate + Sodium Bicarbonate + Sodium Hexametaphosphate,N,N
+125,7.65,80,79.25,7.5,N,11.52,Sodium Bicarbonate + Sodium Hexametaphosphate,N,N
+280,4.23,160,72.0,8.0,N,10.4,Citric Acid + Magnesium Sulfate + Gluconic Acid,Y,N
+250,4.45,140,72.25,7.5,N,8.42,Sodium Hexametaphosphate + Phytic Acid,N,N
+130,9.3,80,71.0,7.0,N,8.0,Sodium Carbonate + Sodium Hexametaphosphate,N,N
+370,3.97,200,70.67,7.33,N,7.93,Sodium Hexametaphosphate + Phytic Acid + Tartaric Acid,N,N
+185,7.43,100,80.33,7.67,N,7.87,Magnesium Sulfate + Sodium Bicarbonate + Sodium Hexametaphosphate,N,N
+250,7.2,140,69.83,7.0,N,7.65,Sodium Carbonate + Sodium Hexametaphosphate + Tartaric Acid,N,N
+205,7.27,120,65.83,7.67,N,7.52,Sodium Carbonate + Sodium Bicarbonate + Phytic Acid,N,N
+295,4.4,160,68.5,7.67,N,6.32,Sodium Bicarbonate + Phytic Acid + Tartaric Acid,N,N
+55,9.95,40,67.75,7.5,N,6.08,Sodium Carbonate + Sodium Bicarbonate,N,N
+175,7.63,100,67.67,7.33,N,6.03,Sodium Carbonate + Sodium Bicarbonate + Tartaric Acid,N,N
+190,8.53,100,74.83,7.33,N,5.18,Magnesium Sulfate + Sodium Carbonate + Sodium Hexametaphosphate,N,N
+390,4.13,200,71.5,7.33,N,4.18,Sodium Hexametaphosphate + Phytic Acid + Gluconic Acid,N,N
+270,7.37,140,70.67,7.0,N,3.9,Sodium Carbonate + Sodium Hexametaphosphate + Gluconic Acid,N,N
+115,8.97,60,72.67,7.67,N,3.57,Magnesium Sulfate + Sodium Carbonate + Sodium Bicarbonate,N,N
+85,7.65,40,79.25,8.0,N,3.57,Magnesium Sulfate + Sodium Bicarbonate,N,N
+360,4.5,180,73.33,7.0,N,2.7,Sodium Hexametaphosphate + Tartaric Acid + Gluconic Acid,N,N
+315,4.57,160,69.33,7.67,N,2.57,Sodium Bicarbonate + Phytic Acid + Gluconic Acid,N,N
+195,7.8,100,68.5,7.33,N,2.28,Sodium Carbonate + Sodium Bicarbonate + Gluconic Acid,N,N
+270,2.45,140,64.75,7.5,N,2.17,Phytic Acid + Tartaric Acid,N,N
+150,7.3,80,63.5,7.0,N,1.75,Sodium Carbonate + Tartaric Acid,N,Y
+285,4.93,140,71.17,7.33,N,1.08,Sodium Bicarbonate + Tartaric Acid + Gluconic Acid,N,N
+210,4.45,100,72.25,8.0,N,0.47,Magnesium Sulfate + Phytic Acid,N,N
+90,9.3,40,71.0,7.5,N,0.05,Magnesium Sulfate + Sodium Carbonate,N,N
+330,3.97,160,70.67,7.67,N,-0.03,Magnesium Sulfate + Phytic Acid + Tartaric Acid,N,N
+210,7.2,100,69.83,7.33,N,-0.32,Magnesium Sulfate + Sodium Carbonate + Tartaric Acid,N,N
+410,2.8,200,66.5,7.33,N,-1.32,Phytic Acid + Tartaric Acid + Gluconic Acid,N,N
+290,2.7,140,66.0,7.5,N,-1.45,Phytic Acid + Gluconic Acid,N,N
+170,7.55,80,64.75,7.0,N,-1.88,Sodium Carbonate + Gluconic Acid,N,N
+260,3.25,120,68.75,7.0,N,-2.68,Tartaric Acid + Gluconic Acid,N,N
+350,4.13,160,71.5,7.67,N,-3.78,Magnesium Sulfate + Phytic Acid + Gluconic Acid,N,N
+230,7.37,100,70.67,7.33,N,-4.07,Magnesium Sulfate + Sodium Carbonate + Gluconic Acid,N,N
+320,4.5,140,73.33,7.33,N,-5.27,Magnesium Sulfate + Tartaric Acid + Gluconic Acid,N,N
+510,6.03,200,49.0,6.0,Y,-56.7,Citric Acid + EDTA + Sodium Carbonate,N,N
+525,6.53,180,60.83,5.67,Y,-64.18,EDTA + Sodium Bicarbonate + Sodium Hexametaphosphate,N,N
+500,5.65,160,53.25,4.5,Y,-69.58,EDTA + Sodium Hexametaphosphate,N,N
+545,5.2,180,55.83,5.67,Y,-69.68,EDTA + Sodium Bicarbonate + Tartaric Acid,N,N
+560,6.1,180,63.0,5.67,Y,-70.53,Magnesium Sulfate + EDTA + Sodium Hexametaphosphate,N,N
+580,5.93,200,48.5,5.67,Y,-70.88,EDTA + Sodium Carbonate + Phytic Acid,N,N
+425,6.3,120,50.0,5.0,Y,-71.5,EDTA + Sodium Bicarbonate,N,Y
+485,6.53,140,60.83,6.0,Y,-72.15,Magnesium Sulfate + EDTA + Sodium Bicarbonate,N,N
+550,6.3,180,50.33,5.33,Y,-72.37,EDTA + Sodium Carbonate + Tartaric Acid,N,N
+580,4.5,240,56.67,6.0,Y,-72.4,Citric Acid + EDTA + Sodium Hexametaphosphate,N,N
+565,5.37,180,56.67,5.67,Y,-73.43,EDTA + Sodium Bicarbonate + Gluconic Acid,N,N
+505,4.93,200,54.5,6.33,Y,-74.02,Citric Acid + EDTA + Sodium Bicarbonate,N,N
+570,6.47,180,51.17,5.33,Y,-76.12,EDTA + Sodium Carbonate + Gluconic Acid,N,N
+630,2.8,260,49.83,6.33,Y,-76.42,Citric Acid + EDTA + Phytic Acid,N,N
+460,5.65,120,53.25,5.0,Y,-77.53,Magnesium Sulfate + EDTA,N,N
+600,3.17,240,51.67,6.0,Y,-77.9,Citric Acid + EDTA + Tartaric Acid,N,N
+480,3.25,180,43.75,5.5,Y,-80.33,Citric Acid + EDTA,N,N
+540,4.5,200,56.67,6.33,Y,-80.37,Citric Acid + Magnesium Sulfate + EDTA,Y,N
+620,3.33,240,52.5,6.0,Y,-81.65,Citric Acid + EDTA + Gluconic Acid,N,N
+650,4.4,240,56.17,5.67,Y,-86.58,EDTA + Sodium Hexametaphosphate + Phytic Acid,N,N
+530,7.63,180,55.33,5.33,Y,-86.87,EDTA + Sodium Carbonate + Sodium Hexametaphosphate,N,N
+620,4.77,220,58.0,5.33,Y,-88.07,EDTA + Sodium Hexametaphosphate + Tartaric Acid,N,N
+575,4.83,200,54.0,6.0,Y,-88.2,EDTA + Sodium Bicarbonate + Phytic Acid,N,N
+455,8.07,140,53.17,5.67,Y,-88.48,EDTA + Sodium Carbonate + Sodium Bicarbonate,N,N
+640,4.93,220,58.83,5.33,Y,-91.82,EDTA + Sodium Hexametaphosphate + Gluconic Acid,N,N
+670,3.07,240,51.17,5.67,Y,-92.08,EDTA + Phytic Acid + Tartaric Acid,N,N
+610,4.4,200,56.17,6.0,Y,-94.55,Magnesium Sulfate + EDTA + Phytic Acid,N,N
+550,3.1,180,43.0,5.0,Y,-94.6,EDTA + Phytic Acid,N,N
+490,7.63,140,55.33,5.67,Y,-94.83,Magnesium Sulfate + EDTA + Sodium Carbonate,N,N
+430,7.95,120,41.75,4.5,Y,-95.03,EDTA + Sodium Carbonate,N,N
+690,3.23,240,52.0,5.67,Y,-95.83,EDTA + Phytic Acid + Gluconic Acid,N,N
+520,3.65,160,45.75,4.5,Y,-95.83,EDTA + Tartaric Acid,N,N
+580,4.77,180,58.0,5.67,Y,-96.03,Magnesium Sulfate + EDTA + Tartaric Acid,N,N
+660,3.6,220,53.83,5.33,Y,-97.32,EDTA + Tartaric Acid + Gluconic Acid,N,N
+540,3.9,160,47.0,4.5,Y,-99.45,EDTA + Gluconic Acid,N,N
+600,4.93,180,58.83,5.67,Y,-99.78,Magnesium Sulfate + EDTA + Gluconic Acid,N,N
